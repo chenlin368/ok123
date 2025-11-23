@@ -1,9 +1,0 @@
-{
-	"sites": [
-		{
-			"key": "精品资源站",
-			"name": "精品资源",
-			"type": 1,
-			"api": "https://www.jingpinx.com/api.php/provide/vod/",
-			"ext": "proxy"
-		},
